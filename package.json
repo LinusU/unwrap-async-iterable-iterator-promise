@@ -1,0 +1,15 @@
+{
+  "name": "unwrap-async-iterable-iterator-promise",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/unwrap-async-iterable-iterator-promise",
+  "scripts": {
+    "test": "standard index.js && node test"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
